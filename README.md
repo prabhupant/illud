@@ -8,6 +8,6 @@ Under the hood
 * memory allocation from the center of the list
 
 
-symbols for pointers ->
+symbols for pointers -->
     _d() : to get the data
     _a() : to get the address
